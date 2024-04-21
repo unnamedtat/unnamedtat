@@ -1,2 +1,2 @@
-### Hi there! Let's run with nyan! 👋
+### Hi there! Run with nyan! 👋
 <img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;"><img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;"><img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;"><img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;"><img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;"><img alt="😽" src="neon-cat-cat.gif" style="width: 5em;vertical-align:top;">
